@@ -1,0 +1,90 @@
+body{
+    width: 70%;
+    margin: auto;
+}
+
+main{  
+    background-color: rgb(245, 193, 175);
+    margin: auto;
+    border:2px solid black;
+    padding: 5px;
+}
+
+
+p{
+    background-color: blue;
+    color:whitesmoke;
+}
+
+.tiliostyles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(236, 75, 137);
+    color: yellow;
+}
+
+/*ul{
+    text-decoration: none;
+}
+li{
+    display: block;    
+}
+a{
+    text-decoration: none;
+}*/
+
+
+
+.sectionsytles{
+    background-color: chartreuse;
+}
+
+#h1stlyes{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/*Nav menu styling*/
+
+nav{list-style: none;
+    display: block;
+
+}
+
+ul>li>a{
+    list-style: none;
+    display: block;
+}
+
+ul>li{
+    background-color: rgb(11, 230, 95);
+    list-style: none;
+    display: inline;
+}
+ul{
+    list-style: none;
+    display: block;
+}
+
+
+
+ul>li>a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+    background-color: rgb(64, 122, 175);
+    margin-left:4px ;
+    padding: 5px;
+
+}
+
+ul>li>a:hover{
+    color: rgb(172, 54, 54);
+    background-color: rgb(26, 194, 96);
+}
+
+.selected{
+    color: green;
+    background-color: rgb(22, 212, 70);
+}
+
